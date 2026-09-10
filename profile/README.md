@@ -1,6 +1,6 @@
 # AGIMX AI
 
-**AGIMX stands for Agile Implementation, Manufacturing, and X Solutions — representing practical AI implementation for manufacturing and beyond.**
+**AGIMX** stands for Agile Implementation, Manufacturing, and X Solutions — representing practical AI implementation for manufacturing and beyond.
 
 We strive to build practical, reliable agentic AI products, MCP tools, and industrial automation integrations.
 
