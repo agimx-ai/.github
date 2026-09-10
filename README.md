@@ -1,1 +1,45 @@
-# .github
+# AGIMX AI
+
+We strive to build practical, reliable agentic AI products, MCP tools, and industrial automation integrations.
+
+## What we build
+
+- Agentic AI products and applications
+- MCP-based tools and integrations
+- AI-assisted industrial automation solutions
+
+## Coming soon
+
+Our products are being released progressively. Stay tuned.
+
+### Phase 1 — Motus AI
+
+- **Motus for Obsidian** — an Obsidian plugin that brings agentic AI capabilities into knowledge workflows. Link and release details coming soon.
+- **Motus AI Client** — an agentic AI client designed to connect intelligent workflows with real-world tools.
+
+### Phase 2 — TIA
+
+- **Generalized TIA integration** — reusable agent and MCP capabilities for industrial automation workflows.
+
+---
+
+我们致力于打造实用、可靠的智能体 AI 产品、MCP 工具与工业自动化集成。
+
+## 我们的方向
+
+- 智能体 AI 产品与应用
+- 基于 MCP 的工具和集成
+- AI 辅助的工业自动化解决方案
+
+## 即将推出
+
+我们的产品将陆续上线，敬请期待。
+
+### 第一阶段 — Motus AI
+
+- **Motus for Obsidian** — 将智能体 AI 能力带入知识工作流的 Obsidian 插件，链接与发布信息即将公布。
+- **Motus AI 客户端** — 面向真实工具与工作流程连接的智能体 AI 客户端。
+
+### 第二阶段 — TIA
+
+- **通用化 TIA 集成** — 面向工业自动化工作流的可复用 Agent 与 MCP 能力。
