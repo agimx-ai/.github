@@ -12,7 +12,7 @@ We strive to build practical, reliable agentic AI products, MCP tools, and indus
 
 Our products are being released progressively. Stay tuned.
 
-### Phase 1 — Motus AI
+### Motus AI
 
 - **Motus for Obsidian** — an Obsidian plugin that brings agentic AI capabilities into knowledge workflows. Link and release details coming soon.
 
@@ -31,7 +31,7 @@ Our products are being released progressively. Stay tuned.
 
 我们的产品将陆续上线，敬请期待。
 
-### 第一阶段 — Motus AI
+### Motus AI
 
 - **Motus for Obsidian** — 将智能体 AI 能力带入知识工作流的 Obsidian 插件，链接与发布信息即将公布。
 
