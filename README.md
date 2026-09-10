@@ -15,11 +15,7 @@ Our products are being released progressively. Stay tuned.
 ### Phase 1 — Motus AI
 
 - **Motus for Obsidian** — an Obsidian plugin that brings agentic AI capabilities into knowledge workflows. Link and release details coming soon.
-- **Motus AI Client** — an agentic AI client designed to connect intelligent workflows with real-world tools.
 
-### Phase 2 — TIA
-
-- **Generalized TIA integration** — reusable agent and MCP capabilities for industrial automation workflows.
 
 ---
 
@@ -38,8 +34,4 @@ Our products are being released progressively. Stay tuned.
 ### 第一阶段 — Motus AI
 
 - **Motus for Obsidian** — 将智能体 AI 能力带入知识工作流的 Obsidian 插件，链接与发布信息即将公布。
-- **Motus AI 客户端** — 面向真实工具与工作流程连接的智能体 AI 客户端。
 
-### 第二阶段 — TIA
-
-- **通用化 TIA 集成** — 面向工业自动化工作流的可复用 Agent 与 MCP 能力。
