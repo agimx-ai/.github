@@ -4,7 +4,11 @@
 
 AGIMX stands for **Agile Implementation, Manufacturing, and X Solutions**. We build reliable AI-agent products, deterministic MCP tools, and industrial automation integrations—starting from the workflows our own engineering teams use.
 
-## Featured product
+## Featured products
+
+### [Motus for Obsidian](https://github.com/agimx-ai/motusai-obsidian-agent)
+
+Motus for Obsidian is AGIMX's first flagship product: an Obsidian plugin that brings agentic AI capabilities into personal knowledge workflows. Its repository provides release information and installable assets.
 
 ### [SeedAgent TIA Portal Programming Agent](https://github.com/agimx-ai/seedagent-tia-programming)
 
@@ -29,10 +33,6 @@ Current public release: **0.9.0**. The product currently focuses on S7-1200, S7-
 
 Our products are not based on asking a model to discover operational APIs through unlimited trial and error. We move repeatable operations, safeguards, and lifecycle rules into deterministic tools, then let the model focus on requirements, design, analysis, and collaboration.
 
-## More from AGIMX
-
-- [**Motus for Obsidian**](https://github.com/agimx-ai/motusai-obsidian-agent) — an Obsidian plugin that brings agentic AI capabilities into personal knowledge workflows. Its repository provides release information and installable assets.
-
 ## Contact and feedback
 
 Use the relevant repository's **Issues** page for questions, suggestions, and publicly reproducible reports. Do not post customer source code, credentials, device certificates, production addresses, or other sensitive material in public issues.
@@ -46,6 +46,10 @@ Use the relevant repository's **Issues** page for questions, suggestions, and pu
 AGIMX 代表 **Agile Implementation（敏捷落地）、Manufacturing（制造业）与 X Solutions（面向更多领域的解决方案）**。我们从自己工程团队的真实工作出发，打造可靠的智能体产品、确定性 MCP 工具和工业自动化集成。
 
 ## 主力产品
+
+### [Motus for Obsidian](https://github.com/agimx-ai/motusai-obsidian-agent)
+
+Motus for Obsidian 是 AGIMX 的第一个主力产品：一款将智能体 AI 能力带入个人知识工作流的 Obsidian 插件。产品仓库已提供发布信息和可安装资产。
 
 ### [SeedAgent 博途（TIA Portal）编程智能体](https://github.com/agimx-ai/seedagent-tia-programming)
 
@@ -69,10 +73,6 @@ SeedAgent 让用户通过腾讯 WorkBuddy，用自然语言操作本机或已配
 - 具备明确状态、证据、授权和故障恢复路径的人机协作流程
 
 我们不把可重复的工程操作交给模型无边界试错，而是先把操作、保护机制和生命周期规则做成确定性工具，再让模型聚焦需求理解、方案设计、分析和协作。
-
-## AGIMX 的其他产品
-
-- [**Motus for Obsidian**](https://github.com/agimx-ai/motusai-obsidian-agent) — 将智能体 AI 能力带入个人知识工作流的 Obsidian 插件，仓库已提供发布信息和可安装资产。
 
 ## 联系与反馈
 
