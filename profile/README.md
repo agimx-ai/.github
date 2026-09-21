@@ -10,6 +10,8 @@ AGIMX stands for **Agile Implementation, Manufacturing, and X Solutions**. We bu
 
 Motus for Obsidian is AGIMX's first flagship product: an Obsidian plugin that brings agentic AI capabilities into personal knowledge workflows. Its repository provides release information and installable assets.
 
+[Product overview, releases, and installation →](https://github.com/agimx-ai/motusai-obsidian-agent)
+
 ### [SeedAgent TIA Portal Programming Agent](https://github.com/agimx-ai/seedagent-tia-programming)
 
 SeedAgent lets users work with Siemens TIA Portal in natural language through Tencent WorkBuddy. It can operate TIA Portal on the local computer or on paired engineering workstations and supports TIA Portal V16–V21.
@@ -50,6 +52,8 @@ AGIMX 代表 **Agile Implementation（敏捷落地）、Manufacturing（制造�
 ### [Motus for Obsidian](https://github.com/agimx-ai/motusai-obsidian-agent)
 
 Motus for Obsidian 是 AGIMX 的第一个主力产品：一款将智能体 AI 能力带入个人知识工作流的 Obsidian 插件。产品仓库已提供发布信息和可安装资产。
+
+[查看产品介绍、版本与安装方式 →](https://github.com/agimx-ai/motusai-obsidian-agent)
 
 ### [SeedAgent 博途（TIA Portal）编程智能体](https://github.com/agimx-ai/seedagent-tia-programming)
 
