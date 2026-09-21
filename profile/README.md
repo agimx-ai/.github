@@ -29,9 +29,9 @@ Current public release: **0.9.0**. The product currently focuses on S7-1200, S7-
 
 Our products are not based on asking a model to discover operational APIs through unlimited trial and error. We move repeatable operations, safeguards, and lifecycle rules into deterministic tools, then let the model focus on requirements, design, analysis, and collaboration.
 
-## Also in development
+## More from AGIMX
 
-- **Motus for Obsidian** — agentic AI capabilities for personal knowledge workflows. Release details will be announced later.
+- [**Motus for Obsidian**](https://github.com/agimx-ai/motusai-obsidian-agent) — an Obsidian plugin that brings agentic AI capabilities into personal knowledge workflows. Its repository provides release information and installable assets.
 
 ## Contact and feedback
 
@@ -70,9 +70,9 @@ SeedAgent 让用户通过腾讯 WorkBuddy，用自然语言操作本机或已配
 
 我们不把可重复的工程操作交给模型无边界试错，而是先把操作、保护机制和生命周期规则做成确定性工具，再让模型聚焦需求理解、方案设计、分析和协作。
 
-## 其他在研产品
+## AGIMX 的其他产品
 
-- **Motus for Obsidian** — 将智能体 AI 能力带入个人知识工作流，发布信息将在后续公布。
+- [**Motus for Obsidian**](https://github.com/agimx-ai/motusai-obsidian-agent) — 将智能体 AI 能力带入个人知识工作流的 Obsidian 插件，仓库已提供发布信息和可安装资产。
 
 ## 联系与反馈
 
